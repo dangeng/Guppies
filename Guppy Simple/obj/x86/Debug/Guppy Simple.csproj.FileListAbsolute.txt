@@ -1,0 +1,37 @@
+C:\Users\liqunxu\AppData\Local\Temporary Projects\Guppy Simple\bin\Debug\Guppy Simple.exe
+C:\Users\liqunxu\AppData\Local\Temporary Projects\Guppy Simple\bin\Debug\Guppy Simple.pdb
+C:\Users\liqunxu\AppData\Local\Temporary Projects\Guppy Simple\obj\x86\Debug\Guppy_Simple.Form1.resources
+C:\Users\liqunxu\AppData\Local\Temporary Projects\Guppy Simple\obj\x86\Debug\Guppy_Simple.Properties.Resources.resources
+C:\Users\liqunxu\AppData\Local\Temporary Projects\Guppy Simple\obj\x86\Debug\Guppy Simple.csproj.GenerateResource.Cache
+C:\Users\liqunxu\AppData\Local\Temporary Projects\Guppy Simple\obj\x86\Debug\Guppy Simple.exe
+C:\Users\liqunxu\AppData\Local\Temporary Projects\Guppy Simple\obj\x86\Debug\Guppy Simple.pdb
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.exe
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.pdb
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Guppy Simple.exe
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Guppy Simple.pdb
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Matrix.dll
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Matrix.pdb
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.csprojResolveAssemblyReference.cache
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy_Simple.Form1.resources
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy_Simple.Properties.Resources.resources
+D:\liqunxu\Desktop\School\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.exe
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Guppy Simple.exe
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Guppy Simple.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Matrix.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Matrix.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy_Simple.Form1.resources
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy_Simple.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.csproj.GenerateResource.Cache
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.exe
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Guppy Simple.exe
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Guppy Simple.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Matrix.dll
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\bin\Debug\Matrix.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy_Simple.Form1.resources
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy_Simple.Properties.Resources.resources
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Guppy Simple\Guppy Simple\obj\x86\Debug\Guppy Simple.csproj.GenerateResource.Cache
